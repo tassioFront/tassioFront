@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋!!
 
-I'm FrontEnd Developer that loves wine. 🍷👨🏻‍💻
+My name is Tássio Jordão and I'm FrontEnd Developer that loves wine. 🍷👨🏻‍💻
 
 - 🔭 I’m currently working on awesome brazilian company: [Juntos Somos mais](https://github.com/juntossomosmais).
 - 🚀 I've been working with: Vue ❤️, Sass ❤️, Node, TypeScript, Jest ❤️, React and Firebase.
