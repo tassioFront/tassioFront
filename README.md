@@ -4,7 +4,7 @@ I'm FrontEnd Developer that loves wine. 🍷👨🏻‍💻
 
 - 🔭 I’m currently working on awesome brazilian company: [Juntos Somos mais](https://github.com/juntossomosmais).
 - 🚀 I've been working with: Vue ❤️, Sass ❤️, Node, TypeScript, Jest ❤️, React and Firebase.
-- 🙅🏻 I worked with: Nuxt ❤️ and Tailwind.
+- 🙅🏻 I worked with: Nuxt ❤️, Vuetify and Tailwind.
 
 More about me at [my LinkedIn](https://www.linkedin.com/in/tassio-front-end/)
 _ 
