@@ -6,6 +6,8 @@ My name is Tássio Jordão and I'm FrontEnd Developer that loves wine. 🍷👨�
 - 🚀 I've been working with: Vue ❤️, Sass ❤️, Node, TypeScript, Jest ❤️, React and Firebase.
 - 🙅🏻 I worked with: Nuxt ❤️, Vuetify and Tailwind.
 
+`I've created an open source organization to help our community`: [Open-ish](https://github.com/open-ish)
+
 More about me at [my LinkedIn](https://www.linkedin.com/in/tassio-front-end/)
 _ 
 <!--
