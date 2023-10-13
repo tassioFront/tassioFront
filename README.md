@@ -1,5 +1,7 @@
 ### Hi there 👋!!
 
+My name is Tássio Jordão and I'm FrontEnd Developer that loves wine. 🍷👨🏻‍💻
+
 4-5 years working with frontend development;
 
 - 🚀 I've been working with: HTML, CSS, Javascript, React, Vue 2 (Vuex and VueRouter), Nuxt, TypeScript, Sass, Vuetify, Jest, React-admin, Nx, Azure, Azure DevOps, GitHub Actions, Sentry, Sonar Cloud, Github, Akamai. 
