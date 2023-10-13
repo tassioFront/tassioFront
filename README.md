@@ -1,14 +1,12 @@
 ### Hi there 👋!!
 
-My name is Tássio Jordão and I'm FrontEnd Developer that loves wine. 🍷👨🏻‍💻
+4-5 years working with frontend development;
 
-- 🔭 I’m currently working for an awesome Brazilian company: Juntos Somos Mais.
-- 🚀 I've been working with: Vue, Sass, React, Node, TypeScript, Jest, Nx, Cypress, Vuetify, ReactAdmin, Sonar Cloud, Sentry, and Firebase.
-- 🙅🏻 I had worked with: Nuxt and Tailwind.
+- 🚀 I've been working with: HTML, CSS, Javascript, React, Vue 2 (Vuex and VueRouter), Nuxt, TypeScript, Sass, Vuetify, Jest, React-admin, Nx, Azure, Azure DevOps, GitHub Actions, Sentry, Sonar Cloud, Github, Akamai. 
 
 `I've created an open source organization to help our community`: [Open-ish](https://github.com/open-ish)
 
-More about me at [my LinkedIn](https://www.linkedin.com/in/tassio-front-end/)
+More about me at [my LinkedIn](https://www.linkedin.com/in/tassio-front-end/) and [my website](https://frontend-pattern.vercel.app/about)
 _ 
 <!--
 **tassioFront/tassioFront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
