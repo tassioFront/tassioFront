@@ -6,23 +6,31 @@ My day-to-day? Architecting high-performing platforms using **Vue**, **React**, 
 
 🔍 Into frontend architecture, monorepos, and platform thinking.  
 📈 Obsessed with code quality, system performance, and developer experience.  
-🌐 More about me: [frontend-pattern.vercel.app](https://frontend-pattern.vercel.app/about).\
-🚀 I've been working with: HTML, CSS, Javascript, React, Vue, Nuxt, Next, TypeScript Nx, DevOps, and many others. 
+👨‍💻 Creating [articles to help the community](https://frontend-pattern.vercel.app/articles)
+
+---
+
+### 🔧 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nx](https://img.shields.io/badge/-Nx-143055?style=flat-square&logo=nx&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+
+... and many others!
+
+---
+
+### ✉️ Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tassio-front-end)  
+[Email](mailto:tassio72@hotmail.com)
+
 
 `I've created an open source organization to help our community`: [Open-ish](https://github.com/open-ish)
 
-More about me at [my LinkedIn](https://www.linkedin.com/in/tassio-front-end/) and [my website](https://frontend-pattern.vercel.app/about)
-<!--
-**tassioFront/tassioFront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+More about me at [my website](https://frontend-pattern.vercel.app/about)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on awesome brazilian company: [Juntos Somos mais](https://github.com/juntossomosmais).
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
