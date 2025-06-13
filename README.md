@@ -6,7 +6,7 @@ My day-to-day? Architecting high-performing platforms using **Vue**, **React**, 
 
 🔍 Into frontend architecture, monorepos, and platform thinking.  
 📈 Obsessed with code quality, system performance, and developer experience.  
-🌐 More about me: [frontend-pattern.vercel.app](https://frontend-pattern.vercel.app/about)
+🌐 More about me: [frontend-pattern.vercel.app](https://frontend-pattern.vercel.app/about).\
 🚀 I've been working with: HTML, CSS, Javascript, React, Vue, Nuxt, Next, TypeScript Nx, DevOps, and many others. 
 
 `I've created an open source organization to help our community`: [Open-ish](https://github.com/open-ish)
