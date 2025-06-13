@@ -1,15 +1,17 @@
-### Hi there 👋!!
+### ✨ Hey, I'm Tássio Jordão (TJ)
 
-My name is Tássio Jordão and I'm FrontEnd Developer that loves wine. 🍷👨🏻‍💻
+I'm a **Senior Frontend Engineer** who loves turning complexity into clean, scalable code.
 
-4-5 years working with frontend development;
+My day-to-day? Architecting high-performing platforms using **Vue**, **React**, **TypeScript**, and **Nx** — with a strong focus on performance, observability, and DevOps collaboration. I’ve worked on e-commerce systems, improved CDN caching, and helped teams ship with more confidence and less friction.
 
-- 🚀 I've been working with: HTML, CSS, Javascript, React, Vue 2 (Vuex and VueRouter), Nuxt, TypeScript, Sass, Vuetify, Jest, React-admin, Nx, Azure, Azure DevOps, GitHub Actions, Sentry, Sonar Cloud, Github, Akamai. 
+🔍 Into frontend architecture, monorepos, and platform thinking.  
+📈 Obsessed with code quality, system performance, and developer experience.  
+🌐 More about me: [frontend-pattern.vercel.app](https://frontend-pattern.vercel.app/about)
+🚀 I've been working with: HTML, CSS, Javascript, React, Vue, Nuxt, Next, TypeScript Nx, DevOps, and many others. 
 
 `I've created an open source organization to help our community`: [Open-ish](https://github.com/open-ish)
 
 More about me at [my LinkedIn](https://www.linkedin.com/in/tassio-front-end/) and [my website](https://frontend-pattern.vercel.app/about)
-_ 
 <!--
 **tassioFront/tassioFront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
