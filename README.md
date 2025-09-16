@@ -26,7 +26,7 @@ My day-to-day? Architecting high-performing platforms using **Vue**, **React**, 
 
 ### ✉️ Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tassio-front-end)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tassio-dev)  
 [Email](mailto:tassio72@hotmail.com)
 
 
